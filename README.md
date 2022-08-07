@@ -31,6 +31,26 @@ We have to do these three steps have to be done everytime we want to run OpenLan
 ![image](https://user-images.githubusercontent.com/100744116/183269596-9a9b7ab4-ab17-4517-8859-657cd46b320a.png)
 > Fig. 5. Running prep command
 
+Once the preparatio is complete we run synthesis
+
+**Command: Run_synthesis**
+
+![image](https://user-images.githubusercontent.com/100744116/183273299-08208c99-b65f-4678-8e02-ece8681acb06.png)
+> Fig. 6. Running Synthesis
+
+![image](https://user-images.githubusercontent.com/100744116/183273404-e43d1fcd-40d4-4a61-90fa-094337b3f32f.png)
+
+
+![image](https://user-images.githubusercontent.com/100744116/183273415-964c0618-59a0-4271-94a6-c7bbc0aa7e49.png)
+
+![image](https://user-images.githubusercontent.com/100744116/183273476-f339f2ed-d2b3-4d78-b476-ecfe14c55212.png)
+
+
+After running the synthesis we can see the total number of standard cells used in this particular design and the total area
+
+Now we are asked to calculate the flop ratio of the d flip-flops(dfxtp_2), we calculate this ratio as follow --> Total # of flops  / Total # of cells
+
+
 
 
 # DAY 2
